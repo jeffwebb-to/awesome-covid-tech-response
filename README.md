@@ -65,7 +65,7 @@ Jump to section:
 2. [Tech Companies with an Office in Toronto](#tech-companies-with-an-office-in-toronto)
 3. [Tech Companies who can Hire Remotely in Ontario](#tech-companies-who-can-hire-remotely-in-ontario)
 
-# Toronto-based Tech Companies
+### Toronto-based Tech Companies
 
 | Company | Industry/product | Learn more |
 |---------|------------------|------------|
@@ -172,7 +172,7 @@ Jump to section:
 |[WGames](https://wgames.com/)|Game Development|[WGames careers](https://wgames.com/#perks)|
 |[Xanadu](https://www.xanadu.ai/)|Photonic Quantum Computing and Advanced AI|[Xanadu careers](https://www.xanadu.ai/careers/)|
 
-# Tech Companies with an Office in Toronto
+### Tech Companies with an Office in Toronto
 
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
@@ -244,7 +244,7 @@ Jump to section:
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
 |[Yelp](https://www.yelp.com/)|Crowd Sourced Review Platform|San Francisco, CA|[Yelp careers](https://www.yelp.ca/careers/)|
 
-# Tech Companies who can Hire Remotely in Ontario
+### Tech Companies who can Hire Remotely in Ontario
 
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
