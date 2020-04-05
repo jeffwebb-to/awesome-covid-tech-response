@@ -2,7 +2,7 @@
 
 ![logo](https://raw.githubusercontent.com/jeffwebb-to/awesome-covid-tech-response/master/awesome-covid-response.png)
 
-COVID related layoffs - Support information and tech industry job search resources. A lot of this information sharing has been a direct result of the massive community rally from former Toronto tech company employees after their rounds of COVID terminations. The intention of this document is to put all of this shared information in one easily accessible and community modifiable place.
+COVID related layoffs - Support information and tech industry job search resources. A lot of this information sharing has been a direct result of the massive community rally from former Toronto tech company employees after their rounds of COVID terminations. @rafops and @jeffwebb-to thought it would be helpful to compile some of this information into a single document. The intention of this document is to put all of this shared information in one easily accessible and community modifiable place. If you'd like to get involved, add to this document, or think an edit is required, please get in touch or submit a PR.
 
 We're located in Toronto Canada, so we're going to focus on our area but if you have resources for another area please feel encouraged to send a PR!
 
