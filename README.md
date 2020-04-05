@@ -12,7 +12,7 @@ First things first, make sure you qualify for Canada Emergency Response Benefit 
 Information about the application process can be found here:
 https://www.canada.ca/en/revenue-agency/services/benefits/apply-for-cerb-with-cra.html
 
-# JOB SEARCH & TALENT SEARCH
+# JOB & TALENT SEARCH
 
 There are many resources for finding work during these times. Dispite many companies closing down, we have seen a massive surge in scale and business for organizations who operate in the online work enablement, health tech, home consumer entertainmnet, and many other online spaces.
 
