@@ -87,7 +87,6 @@ Jump to section:
 |[Dot Health](https://www.dothealth.ca/)|Digital health records|[Jobs at Dot Health](https://www.dothealth.ca/jobs)|
 |[Drop](https://www.earnwithdrop.com/)|Customer rewards program|[Drop careers](https://www.earnwithdrop.com/pages/careers)|
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
-|[ecobee](https://www.ecobee.com/)|Smart home technology|[ecobee careers](https://www.ecobee.com/careers/)|
 |[EnergyX](https://www.energyxsolutions.com/)|Software for utility companies|[EnergyX careers](https://www.energyxsolutions.com/careers)|
 |[EventMobi](https://www.eventmobi.com/)|Mobile event apps|[EventMobi careers](https://www.eventmobi.com/careers/)|
 |[Fiix](https://www.fiixsoftware.com/)|Computerized maintenance management system|[Fiix careers](https://www.fiixsoftware.com/careers/)|
@@ -131,10 +130,8 @@ Jump to section:
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[ProteinQure](https://www.proteinqure.com/)|Biotech|[ProteinQure careers](https://www.proteinqure.com/careers.html)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
-|[Rangle.io](https://rangle.io)|Product Development|[Rangle careers](https://rangle.io/careers)|
 |[RBC Ventures](https://www.rbcventures.ca/)|Business financing, new ventures|[RBC Ventures careers](https://www.rbcventures.ca/careers)|
 |[Resemble AI](https://www.resemble.ai/)|Text to speech|[Resemble AI Jobs](https://angel.co/company/resembleai/jobs)|
-|[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Rubikloud](https://www.rubikloud.com/)|Machine Learning in Retail|[Rubikloud careers](https://rubikloud.com/careers)|
 |[Sensibill](https://getsensibill.com/)|Digital Receipt Management for Digital Banking Apps|[Sensibill careers](https://getsensibill.com/careers)|
 |[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
