@@ -22,7 +22,7 @@ Add your company with a PR if you are hiring! There are many resources for findi
 
 If you are looking for talent, please check the lists below. There are thousands of talented and friendly folks who are looking at present.
 
-### CDN Startup #COVID19 Talent Help List
+### CDN STARTUP #COVID19 TALENT HELP LIST
 
 The "Talent Help List" is a grassroots, community hiring tool designed to help out-of-work talent in Canada's startup sector find remote work during the COVID-19 global crisis. The main resource, a collaborative Google Sheet, is modeled off of the single-company layoff lists used widely in the tech sector and reproduced on a larger scale:
 https://docs.google.com/spreadsheets/d/11vWvewH0vug9ux9A1pS1wXZwmrJnb7NHEmzO26hknP0/htmlview
@@ -36,7 +36,15 @@ https://candor.co/hiring-freezes/
 Another great list of companies still hiring:
 https://coda.io/@kenny/companies-still-hiring
 
-### ORGS HIRING NOW
+### REMOTE JOB LISTINGS
+
+https://whoishiring.io
+
+https://weworkremotely.com
+
+https://remoteok.io
+
+### ORGS HIRING NOW IN TORONTO
 
 Multiple Openings @Shopify:
 https://www.shopify.com/careers/covid19
