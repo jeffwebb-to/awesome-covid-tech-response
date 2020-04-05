@@ -50,7 +50,7 @@ https://www.marsdd.com/work-in-tech/
 Multple Openings @Loblaw Digital
 https://loblawdigital.co/careers
 
-### FORKED FROM @toriagibbs/toronto-tech-scene
+### THE FOLLOWING LIST IS FORKED FROM @toriagibbs/toronto-tech-scene
 
 Jump to section:
 1. [Toronto-based Tech Companies](#toronto-based-tech-companies)
