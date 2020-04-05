@@ -1,22 +1,25 @@
 # awesome-covid-tech-response
+
+![logo](https://raw.githubusercontent.com/jeffwebb-to/awesome-covid-tech-response/master/awesome-covid-response.png)
+
 COVID related layoffs - Support information and tech industry job search resources. A lot of this information sharing has been a direct result of the massive community rally from former Toronto tech company employees after their rounds of COVID terminations. The intention of this document is to put all of this shared information in one easily accessible and community modifiable place.
 
 We're located in Toronto Canada, so we're going to focus on our area but if you have resources for another area please feel encouraged to send a PR!
 
 Sorry you've found yourself in this situation. It sucks, and it's not your fault. We couldn't have done anything different.
 
-# CERB CANADA SUPPORT
+## CERB CANADA SUPPORT
 
 First things first, make sure you qualify for Canada Emergency Response Benefit (CERB). This is a fund aimed at helping Canadian workers who have found themselves out of work due to the current pandemic.
 
 Information about the application process can be found here:
 https://www.canada.ca/en/revenue-agency/services/benefits/apply-for-cerb-with-cra.html
 
-# RESUME SUPPORT 
+## RESUME SUPPORT 
 
 In an effort to help everyone look as sharp as possible while searching for work, an effort led by our very own @rafops to provide resume feedback is being offered at no charge. Because of the volunteer nature, this is on a best effort basis, there are many people looking for work right now, so we may be very busy with this work. We appreciate your patience. To submit your resume for review and feedback, please send it as a Pull Request. If you would like to volunteer to provide this service, please get in touch.
 
-# JOB & TALENT SEARCH
+## JOB & TALENT SEARCH
 
 Add your company with a PR if you are hiring! There are many resources for finding work during these times. Dispite many companies closing down, we have seen a massive surge in scale and business for organizations who operate in the online work enablement, health tech, home consumer entertainmnet, and many other online spaces.
 
