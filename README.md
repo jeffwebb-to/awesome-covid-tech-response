@@ -14,7 +14,7 @@ https://www.canada.ca/en/revenue-agency/services/benefits/apply-for-cerb-with-cr
 
 # RESUME SUPPORT 
 
-In an effort to help everyone look as sharp as possible while searching for work, an effort led by our very own @rafops to provide resume feedback is being offered at no charge. Because of the volunteer nature, this is on a best effort basis, there are many people looking for work right now, so we may be very busy with this work. We appreciate your patience. To submit your resume for review and feedback, please send it as a Pull Request.
+In an effort to help everyone look as sharp as possible while searching for work, an effort led by our very own @rafops to provide resume feedback is being offered at no charge. Because of the volunteer nature, this is on a best effort basis, there are many people looking for work right now, so we may be very busy with this work. We appreciate your patience. To submit your resume for review and feedback, please send it as a Pull Request. If you would like to volunteer to provide this service, please get in touch.
 
 # JOB & TALENT SEARCH
 
