@@ -33,21 +33,15 @@ https://docs.google.com/spreadsheets/d/11vWvewH0vug9ux9A1pS1wXZwmrJnb7NHEmzO26hk
 A fork of the above list has come to our attention, with a nice web front end at https://www.thehelplist.ca/. To add yourself there click:
 https://airtable.com/shrgI7OIJARimeMHk
 
+### LISTS OF ORGS HIRING NOW 
+
 This one is a list of companies who have hiring freezes, and companies who are actively looking for skilled employees:
 https://candor.co/hiring-freezes/
 
 Another great list of companies still hiring:
 https://coda.io/@kenny/companies-still-hiring
 
-### REMOTE JOB LISTINGS
-
-https://whoishiring.io
-
-https://weworkremotely.com
-
-https://remoteok.io
-
-### ORGS HIRING NOW IN TORONTO
+### JOB POSTINGS IN TORONTO
 
 Multiple Openings @Shopify:
 https://www.shopify.com/careers/covid19
@@ -60,6 +54,14 @@ https://www.marsdd.com/work-in-tech/
 
 Multple Openings @Loblaw Digital
 https://loblawdigital.co/careers
+
+### REMOTE JOB LISTINGS
+
+https://whoishiring.io
+
+https://weworkremotely.com
+
+https://remoteok.io
 
 ### THE FOLLOWING LIST IS FORKED FROM @toriagibbs/toronto-tech-scene
 
