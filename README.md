@@ -27,6 +27,14 @@ To request a peer resume review:
 
 If you would like to volunteer to provide this service, please get in touch.
 
+## FREE COURSES
+
+What about learning new skills to get you ready for the interviews? Check out these platforms currently offering free courses:
+
+* [Class Central/Ivy League Online Courses](https://www.classcentral.com/collection/ivy-league-moocs) - Free online courses from Brown, Columbia Cornell, Dartmouth, Harvard, Penn, Princeton, and Yale
+* [exercism.io](https://exercism.io) - Level up your programming skills with 3,336 exercises across 50 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
+* [PluralSight](https://www.pluralsight.com/offer/2020/free-april-month) - #FREEapril Build in-demand tech skills without leaving your house. Get free access to 7,000+ expert-led video courses and more all month long. 
+
 ## JOB & TALENT SEARCH
 
 Add your company with a PR if you are hiring! There are many resources for finding work during these times. Dispite many companies closing down, we have seen a massive surge in scale and business for organizations who operate in the online work enablement, health tech, home consumer entertainmnet, and many other online spaces.
