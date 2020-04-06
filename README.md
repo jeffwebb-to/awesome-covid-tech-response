@@ -8,7 +8,7 @@ We're located in Toronto Canada, so we're going to focus on our area but if you 
 
 Sorry you've found yourself in this situation. It sucks, and it's not your fault. We couldn't have done anything different.
 
-## CONTENTS
+# CONTENTS
 
 - [CERB](#cerb-canada-support)
 - [Resume Support](#resume-support)
