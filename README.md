@@ -8,6 +8,18 @@ We're located in Toronto Canada, so we're going to focus on our area but if you 
 
 Sorry you've found yourself in this situation. It sucks, and it's not your fault. We couldn't have done anything different.
 
+## CONTENTS
+
+- [CERB](#cerb-canada-support)
+- [Resume Support](#resume-support)
+- [Free Courses](#free-courses)
+- [Job & Talent Search](#job--talent-search)
+- [CDN Startup COVID19 Talent Help List](#cdn-startup-covid19-talent-help-list)
+- [Lists of Orgs Hiring Now](#lists-of-orgs-hiring-now)
+- [Current Job Postings in Toronto](#job-postings-in-toronto)
+- [Remote Job Listings](#remote-job-listings)
+- [Toronto Tech Scene List](#toronto-tech-scene-list)
+
 ## CERB CANADA SUPPORT
 
 First things first, make sure you qualify for Canada Emergency Response Benefit (CERB). This is a fund aimed at helping Canadian workers who have found themselves out of work due to the current pandemic.
@@ -26,6 +38,14 @@ To request a peer resume review:
 * Add your resume as Markdown or URL in the comments.
 
 If you would like to volunteer to provide this service, please get in touch.
+
+## FREE COURSES
+
+What about learning new skills to get you ready for the interviews? Check out these platforms currently offering free courses:
+
+* [Class Central/Ivy League Online Courses](https://www.classcentral.com/collection/ivy-league-moocs) - Free online courses from Brown, Columbia Cornell, Dartmouth, Harvard, Penn, Princeton, and Yale
+* [exercism.io](https://exercism.io) - Level up your programming skills with 3,336 exercises across 50 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
+* [PluralSight](https://www.pluralsight.com/offer/2020/free-april-month) - #FREEapril Build in-demand tech skills without leaving your house. Get free access to 7,000+ expert-led video courses and more all month long. 
 
 ## JOB & TALENT SEARCH
 
@@ -71,7 +91,8 @@ https://weworkremotely.com
 
 https://remoteok.io
 
-### THE FOLLOWING LIST IS FORKED FROM @toriagibbs/toronto-tech-scene
+### Toronto Tech Scene List
+The following list is forked from @toriagibbs/toronto-tech-scene 
 
 Jump to section:
 1. [Toronto-based Tech Companies](#toronto-based-tech-companies)
