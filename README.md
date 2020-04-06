@@ -14,10 +14,10 @@ Sorry you've found yourself in this situation. It sucks, and it's not your fault
 - [Resume Support](#resume-support)
 - [Free Courses](#free-courses)
 - [Job & Talent Search](#job--talent-search)
-- [CDN Startup COVID19 Talent Help List](#cdn-startup-covid19-talent-help-list)
-- [Lists of Orgs Hiring Now](#lists-of-orgs-hiring-now)
-- [Current Job Postings in Toronto](#job-postings-in-toronto)
-- [Remote Job Listings](#remote-job-listings)
+	- [CDN Startup COVID19 Talent Help List](#cdn-startup-covid19-talent-help-list)
+	- [Lists of Orgs Hiring Now](#lists-of-orgs-hiring-now)
+	- [Current Job Postings in Toronto](#job-postings-in-toronto)
+	- [Remote Job Listings](#remote-job-listings)
 - [Toronto Tech Scene List](#toronto-tech-scene-list)
 
 ## CERB CANADA SUPPORT
