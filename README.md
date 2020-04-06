@@ -8,6 +8,18 @@ We're located in Toronto Canada, so we're going to focus on our area but if you 
 
 Sorry you've found yourself in this situation. It sucks, and it's not your fault. We couldn't have done anything different.
 
+## CONTENTS
+
+- [CERB](#cerb-canada-support)
+- [Resume Support](#resume-support)
+- [Free Courses](#free-courses)
+- [Job & Talent Search](#job--talent-search)
+- [CDN Startup COVID19 Talent Help List](#cdn-startup-covid19-talent-help-list)
+- [Lists of Orgs Hiring Now](#lists-of-orgs-hiring-now)
+- [Current Job Postings in Toronto](#job-postings-in-toronto)
+- [Remote Job Listings](#remote-job-listings)
+- [Toronto Tech Scene List](#toronto-tech-scene-list)
+
 ## CERB CANADA SUPPORT
 
 First things first, make sure you qualify for Canada Emergency Response Benefit (CERB). This is a fund aimed at helping Canadian workers who have found themselves out of work due to the current pandemic.
@@ -79,7 +91,8 @@ https://weworkremotely.com
 
 https://remoteok.io
 
-### THE FOLLOWING LIST IS FORKED FROM @toriagibbs/toronto-tech-scene
+### Toronto Tech Scene List
+The following list is forked from @toriagibbs/toronto-tech-scene 
 
 Jump to section:
 1. [Toronto-based Tech Companies](#toronto-based-tech-companies)
