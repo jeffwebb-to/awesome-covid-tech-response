@@ -18,6 +18,7 @@ Sorry you've found yourself in this situation. It sucks, and it's not your fault
 	- [Lists of Orgs Hiring Now](#lists-of-orgs-hiring-now)
 	- [Current Job Postings in Toronto](#job-postings-in-toronto)
 	- [Remote Job Listings](#remote-job-listings)
+- [Networking](#networking-opportunities)
 - [Toronto Tech Scene List](#toronto-tech-scene-list)
 
 ## CERB CANADA SUPPORT
@@ -91,7 +92,15 @@ https://weworkremotely.com
 
 https://remoteok.io
 
-### Toronto Tech Scene List
+## Networking Opportunities
+
+Connecting with new people is a great way of finding a new job. Add events or tech community chats/slacks here that can help people to connect.
+
+[Hacking From Home Hackathon](https://hackingfromhome.ca)
+
+[TorontoJS Slack](http://slack.torontojs.com/)
+
+## Toronto Tech Scene List
 The following list is forked from @toriagibbs/toronto-tech-scene 
 
 Jump to section:
