@@ -101,6 +101,7 @@ Connecting with new people is a great way of finding a new job. Add events or te
 [TorontoJS Slack](http://slack.torontojs.com/)
 
 [Join TechMasters Slack](https://join.slack.com/t/techmasters/shared_invite/zt-c1wvv5vo-bdek0hz5Rs9r2cZhaccEXA)
+
 [TechMasters Jobs Repository](https://github.com/TechnologyMasters/jobs)
 
 ## Toronto Tech Scene List
